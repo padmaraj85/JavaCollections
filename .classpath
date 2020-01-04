@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="src" path="java-arraylist-examples"/>
+	<classpathentry kind="src" path="java-comparable-comparator-examples"/>
+	<classpathentry kind="src" path="java-hashmap-examples"/>
+	<classpathentry kind="src" path="java-hashset-examples"/>
+	<classpathentry kind="src" path="java-linkedhashmap-examples"/>
+	<classpathentry kind="src" path="java-linkedlist-examples"/>
+	<classpathentry kind="src" path="java-priority-queue-examples"/>
+	<classpathentry kind="src" path="java-queue-examples"/>
+	<classpathentry kind="src" path="java-stack-examples"/>
+	<classpathentry kind="src" path="java-treemap-examples"/>
+	<classpathentry kind="src" path="java-treeset-examples"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
